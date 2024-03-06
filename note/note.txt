@@ -1,0 +1,4 @@
+create app : yarn init
+
+ add library : add yarn add discord.js ytdl-core ytpl ytsr ffmpeg-static dotenv nodemon
+

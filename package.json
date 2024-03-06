@@ -1,0 +1,23 @@
+{
+    "name": "bot_discord",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/khoaab112/bot_discord.git",
+    "author": "Nguyễn Văn Khoa <khoaqwe1122@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.4.5",
+        "express": "^4.18.3",
+        "ffmpeg-static": "^5.2.0",
+        "nodemon": "^3.1.0",
+        "ytdl-core": "^4.11.5",
+        "ytpl": "^2.3.0",
+        "ytsr": "^3.8.4"
+    }
+}
