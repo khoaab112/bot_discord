@@ -1,9 +1,8 @@
 {
     "gr0": {
         "group_name": "Mệnh lệnh",
-        "welcome": "Xin chào bạn đến nhóm tổng quan, cung cấp các mã lệnh chung :\n !menu : danh sách mã lệnh",
-        "code": "Danh sách các mã lệnh\nmenu : danh sách menu\nlsgr : danh sách group\n",
-        "lsgr": "Danh sách group\n# thong-bao-server \n# ghi-nhan-thu-chi\n# y-tuong\n# giao-dich-don-hang\n# quản-lý-fashion_server\n# quản-lý-fashion_web\n# ghi-nho"
+        "welcome": "Xin chào bạn đến nhóm tổng quan, cung cấp các mã lệnh chung :\n menu : danh sách mã lệnh",
+        "code": "**menu** : *danh sách lệnh*\n**lsgr** : *danh sách group*\n"
     },
     "gr1": {
         "group_name": "Thông báo về server vps",
