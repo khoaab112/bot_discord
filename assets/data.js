@@ -7,6 +7,7 @@ const listGR = {
     '1215213042149757001': { id: 'gr5', name: 'quản-lý-fashion_server' },
     '1215213158613000193': { id: 'gr6', name: 'quản-lý-fashion_web' },
     '1215213182881107969': { id: 'gr7', name: 'ghi-nho' },
+    '1215243412500914196': { id: 'gr8', name: 'thong-bao-mail' },
 };
 const guildId = '1215123082847592459';
 module.exports = { listGR, guildId };

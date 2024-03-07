@@ -38,5 +38,10 @@
         "group_name": "Ghi nho",
         "welcome": "Chào bạn đến ghi nho",
         "code": "Danh sách mã lệnh\n"
+    },
+    "gr8": {
+        "group_name": "Thong bao mail",
+        "welcome": "Chào bạn đến mail",
+        "code": "Danh sách mã lệnh\n"
     }
 }
