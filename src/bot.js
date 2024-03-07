@@ -1,3 +1,5 @@
+const messageWelcome = require('../assets/welcome.json')
+const { listGR, guildId } = require('../assets/data')
 const TOKEN = process.env.TOKEN;
 const { Client, Events, GatewayIntentBits, Partials } = require('discord.js');
 const client = new Client({
@@ -12,11 +14,13 @@ const client = new Client({
 });
 
 function responseCode() {
-    client.on('messageCreate', (msg) => {
-        if (msg.author.bot) return;
-        console.log(msg);
-        if (msg.content === 'Hello') {
-            msg.reply(`Hello ${msg.author.username}`);
+    client.on('messageCreate', (message) => {
+        let channelID = message.channelId;
+        let resultGR = listGR[channelID];
+        if (message.author.bot) return;
+        const command = message.content.toLowerCase();
+        if (command === 'hello') {
+            message.reply();
         }
     });
     // client.on('messageCreate', async function(message) {

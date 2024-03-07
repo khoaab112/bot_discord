@@ -1,0 +1,43 @@
+{
+    "gr0": {
+        "group_name": "Mệnh lệnh",
+        "welcome": "Xin chào bạn đến nhóm tổng quan, cung cấp các mã lệnh chung :\n !menu : danh sách mã lệnh",
+        "code": "Danh sách các mã lệnh\nmenu : danh sách menu\nlsgr : danh sách group\n",
+        "lsgr": "Danh sách group\n# thong-bao-server \n# ghi-nhan-thu-chi\n# y-tuong\n# giao-dich-don-hang\n# quản-lý-fashion_server\n# quản-lý-fashion_web\n# ghi-nho"
+    },
+    "gr1": {
+        "group_name": "Thông báo về server vps",
+        "welcome": "Chào bạn đến với quản lý | thông  báo server vps\nmenu",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr2": {
+        "group_name": "Ghi nhận thu chi",
+        "welcome": "Chào bạn đến ghi nhận thu chi",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr3": {
+        "group_name": "Ý tưởng",
+        "welcome": "Chào bạn đến ý tưởng",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr4": {
+        "group_name": "Giao dịch đơn hàng",
+        "welcome": "Chào bạn đến giao dịch đơn hàng",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr5": {
+        "group_name": "Quản lý fashion_server",
+        "welcome": "Chào bạn đến Quản lý fashion_server",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr6": {
+        "group_name": "Quản lý fashion_web",
+        "welcome": "Chào bạn đến quản lý web",
+        "code": "Danh sách mã lệnh\n"
+    },
+    "gr7": {
+        "group_name": "Ghi nho",
+        "welcome": "Chào bạn đến ghi nho",
+        "code": "Danh sách mã lệnh\n"
+    }
+}
